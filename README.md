@@ -1,4 +1,6 @@
-### Hi there 👋
+**Hi, I'm Geraldo,**
+
+I make ✨games, apps and write books✨.
 
 <!--
 **Solivagant/Solivagant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
